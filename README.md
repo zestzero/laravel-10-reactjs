@@ -11,7 +11,7 @@ Clone this repository
 ```bash
 git clone https://github.com/zestzero/laravel-10-reactjs <PROJECT_NAME>
 ```
-Get into `app`` folder
+Get into `app` folder
 ```bash
 cd app
 ```
@@ -19,7 +19,7 @@ Install dependencies using composer:
 ```bash
 composer install
 ```
-Copy ``.env.example`` to `.env`
+Copy `.env.example` to `.env`
 ```bash
 cp .env.example .env
 ```
@@ -34,4 +34,4 @@ yarn dev
 ```
 That's it! browse your website via http://localhost
 
-Happy hacking ❤️ 
+Happy hacking ❤️ leave a star if you like 🥺
